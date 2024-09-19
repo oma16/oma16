@@ -4,6 +4,8 @@
 My name is ✨ Mariam Alli ✨ 
 **FullStack Developer**
 - 🔭 Skills - HTML, CSS, JavaScript, TypeScript, React, Next,Node, Docker, Terraform
+- Available for freelance and/or full-time Job roles (full-stack/backend)
+- 👯 I’m looking to collaborate on open-source projects.
 - 🌱 I’m currently learning DevOps
 - 📫 Reach me on any of my social media handles.
 - 😄 she/her
