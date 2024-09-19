@@ -1,0 +1,14 @@
+## Hi there 👋
+
+<!--
+**oma16/oma16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Skills - HTML, CSS, JavaScript, TypeScript, React, Next,Node, Docker, Terraform
+- 🌱 I’m currently learning DevOps
+- 📫 Reach me on any of my social media handles.
+- 😄 she/her
+- ⚡ Fun fact : If am not coding, am cooking
+-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oma16&theme=default&show_icons=true&hide_border=true&layout=compact)
